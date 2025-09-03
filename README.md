@@ -1,6 +1,5 @@
 
 <p align="center">
-  <a href="https://github.com/yt-dlp/yt-dlp"><img alt="yt-dlp" src="https://img.shields.io/badge/yt-dlp-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://pypi.org/project/yt-dlp/"><img alt="PyPI Version" src="https://img.shields.io/pypi/v/yt-dlp?style=for-the-badge"/></a>
   <a href="https://pypi.org/project/yt-dlp/"><img alt="Install" src="https://img.shields.io/badge/Install-pip%20install-blue?style=for-the-badge&logo=pypi&logoColor=white"/></a>
 </p>
